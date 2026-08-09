@@ -1,5 +1,7 @@
 # Use Case: Web-Browsing Research Agent
 
+**YouTube walkthrough:** [Web Browsing Research Agent — System Design #Shorts](https://youtu.be/RJqtwjYqHQ4)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -46,6 +48,9 @@ Model browse(url) → policy + proxy fetch
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Web Browsing Research Agent — System Design #Shorts](https://youtu.be/RJqtwjYqHQ4)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
